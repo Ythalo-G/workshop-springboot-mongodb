@@ -9,4 +9,6 @@ import com.workshop.mongodb.domain.User;
 public interface UserRepository extends MongoRepository<User, String> {
 
 	
+
+	
 }
